@@ -11,15 +11,8 @@ The dataset coming from bank bussiness that contains 4 tables, which is user, de
 The source of dataset : is BigQuery .
 
 # Dashboard
-- Describe where the most active of user’s located based in the country
-![image](https://github.com/najwamualla/Zenithflow/assets/149318641/e5ca97b8-62ae-4de8-aa95-f274504b9f41)
-- We divided the age groups into 4 categories: of our bank customer to can see the most of age used our app
-![image](https://github.com/najwamualla/Zenithflow/assets/149318641/1580a6f1-db0a-4226-9a01-48c5ebe73909)
-- We have seen a significant increase in the number of customers  has gained
-![image](https://github.com/najwamualla/Zenithflow/assets/149318641/508a5af3-009d-467f-98fd-d82945d2647c)
-- The confusion matrix for churn rate
-![image](https://github.com/najwamualla/Zenithflow/assets/149318641/4a908b70-0884-4c5d-a0ab-66fef50828c3)
-
-
-
-
+![image](https://github.com/najwamualla/Zenithflow/assets/149318641/3cd9015d-0b2e-45b5-a600-c816c77b8fa1)
+![image](https://github.com/najwamualla/Zenithflow/assets/149318641/7171531e-2c16-48c5-aa92-8b4fd9524052)
+![image](https://github.com/najwamualla/Zenithflow/assets/149318641/14e58fb9-76e1-4969-8fb5-534617d025ce)
+![image](https://github.com/najwamualla/Zenithflow/assets/149318641/36443853-5e1a-4cc5-9439-728e997f0b0f)
+![image](https://github.com/najwamualla/Zenithflow/assets/149318641/9d3f8707-835a-4ffa-a0f1-b848efa0e886)
