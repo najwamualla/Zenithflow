@@ -12,7 +12,11 @@ The source of dataset : is BigQuery .
 
 # Dashboard
 ![image](https://github.com/najwamualla/Zenithflow/assets/149318641/3cd9015d-0b2e-45b5-a600-c816c77b8fa1)
-![image](https://github.com/najwamualla/Zenithflow/assets/149318641/7171531e-2c16-48c5-aa92-8b4fd9524052)
+
+![image](https://github.com/najwamualla/Zenithflow/assets/149318641/2d41ccfd-7236-4896-9f25-2f788470ce34)
+
 ![image](https://github.com/najwamualla/Zenithflow/assets/149318641/14e58fb9-76e1-4969-8fb5-534617d025ce)
+
 ![image](https://github.com/najwamualla/Zenithflow/assets/149318641/36443853-5e1a-4cc5-9439-728e997f0b0f)
+
 ![image](https://github.com/najwamualla/Zenithflow/assets/149318641/9d3f8707-835a-4ffa-a0f1-b848efa0e886)
